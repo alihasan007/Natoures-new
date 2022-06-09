@@ -1,3 +1,1 @@
-# Natours applocation
-
-Built using modern tech node.js,express,mongoDB
+Build using modern technologies like NodeJS MongoDB and Express
